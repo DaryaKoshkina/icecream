@@ -1,0 +1,5 @@
+{'user1': ['lemon']}
+{'user2': ['chocolate']}
+{'user3': ['lemon']}
+{'user4': ['lemon', 'orange']}
+{'user5': ['lemon']}
